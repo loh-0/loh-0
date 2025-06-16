@@ -18,12 +18,12 @@ Programming
 
 ## Featured Projects
 
-### **Credit Card Fraud Detection** [Credit Card Fraud Detection](https://github.com/loh-0/Credit-Card-Fraud-Detection)
+### [Credit Card Fraud Detection](https://github.com/loh-0/Credit-Card-Fraud-Detection)
 - Developed supervised learning models on 250,000+ transactions to identify fraud.
 - Used **SMOTE** to balance the data and improve recall of fraudulent classes.
 - Evaluated with confusion matrix & AUC — increased true positive rate by 11%.
 
-### **Snakes & Ladders Betting Model** [Betting and Strategy Model with Markov Chains](https://github.com/loh-0/Markov-Chain-Based-Betting-and-Strategy)
+### [Betting and Strategy Model with Markov Chains](https://github.com/loh-0/Markov-Chain-Based-Betting-and-Strategy)
 - Extended the Snakes and Ladders board game into a **Markov Chain simulation** with stochastic player types.
 - Used Monte Carlo simulation & heuristics to model real-world gambling behaviour.
 
