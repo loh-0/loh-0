@@ -25,7 +25,7 @@ Programming
 
 ### [Betting and Strategy Model with Markov Chains](https://github.com/loh-0/Markov-Chain-Based-Betting-and-Strategy)
 - Extended the Snakes and Ladders board game into a **Markov Chain simulation** with stochastic player types.
-- Used Monte Carlo simulation & heuristics to model real-world gambling behaviour.
+- Used Monte Carlo simulation & heuristics to optimise betting strategy and maximise wins.
 
 ---
 
