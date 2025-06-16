@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 What I’m interested in
+## What I’m interested in
 - Data Science & Machine Learning 🤖  
 - AI for Social Good 🌱  
 - Analytics in Finance & Fraud Detection 💳  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 Programming
 - Python
@@ -25,14 +25,14 @@ Programming
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### 💳 **Credit Card Fraud Detection**
+### **Credit Card Fraud Detection**
 - Developed supervised learning models on 250,000+ transactions to identify fraud.
 - Used **SMOTE** to balance the data and improve recall of fraudulent classes.
 - Evaluated with confusion matrix & AUC — increased true positive rate by 11%.
 
-### 🎲 **Snakes & Ladders Gambling Model**
+### **Snakes & Ladders Betting Model**
 - Extended the board game into a **Markov Chain simulation** with stochastic player types.
 - Used Monte Carlo simulation & heuristics to model real-world gambling behaviour.
 
