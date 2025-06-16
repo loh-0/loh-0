@@ -6,15 +6,6 @@
 
 ---
 
-## What I’m interested in
-- Data Science & Machine Learning 🤖  
-- AI for Social Good 🌱  
-- Analytics in Finance & Fraud Detection 💳  
-- Interactive Dashboards & Visualisation 📈  
-- Human-Centred Tech & Ethical AI 🌍
-
----
-
 ## Tools & Technologies
 
 Programming
