@@ -18,6 +18,12 @@ Programming
 
 ## Featured Projects
 
+### [Loan Approval Prediction App](https://loh-0-loan-approval-prediction-streamlit-app-dsy9mv.streamlit.app/)
+- Built a fully interactive **Streamlit web app** to predict loan approvals using a Random Forest model.
+- Integrated **SHAP** explainability tools to visualise individual prediction reasons and feature impacts.
+- Designed a **What-If simulator** to explore how improving CIBIL scores or reducing loan amounts could improve approval chances.
+- Highlighted data limitations: model mainly relied on CIBIL score and loan term due to limited feature influence.
+
 ### [Credit Card Fraud Detection](https://github.com/loh-0/Credit-Card-Fraud-Detection)
 - Developed supervised learning models on 250,000+ transactions to identify fraud.
 - Used **SMOTE** to balance the data and improve recall of fraudulent classes.
