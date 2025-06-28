@@ -30,8 +30,10 @@ Programming
 - Evaluated with confusion matrix, increased true positive rate by 11%.
 
 ### [Betting and Strategy Model with Markov Chains](https://github.com/loh-0/Markov-Chain-Based-Betting-and-Strategy)
-- Extended the Snakes and Ladders board game into a **Markov Chain simulation** with stochastic player types.
-- Used Monte Carlo simulation & heuristics to optimise betting strategy and maximise wins.
+- Developed betting strategy optimisation using Markov Chains and simulated annealing, improving win rates from 45% to 96% by modeling stochastic transitions between financial states
+- Conducted Monte Carlo simulations with 10,000+ iterations to validate analytical results and analyse probability distributions for different starting conditions and strategies
+- Applied matrix exponentiation and absorption probability calculations to determine expected outcomes and time-to-absorption across different balance states in a discrete stochastic system
+- Built transition matrices and implemented optimisation algorithms to solve strategy selection problems, demonstrating quantifiable performance improvements through statistical analysis
 
 ### [Stock Trading Simulator](https://trading-sim-rho.vercel.app/)
 - Built a full-stack **paper-trading simulator** using **React**, **Node.js**, and **MongoDB Atlas**.
