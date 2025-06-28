@@ -33,6 +33,13 @@ Programming
 - Extended the Snakes and Ladders board game into a **Markov Chain simulation** with stochastic player types.
 - Used Monte Carlo simulation & heuristics to optimise betting strategy and maximise wins.
 
+### [Stock Trading Simulator](https://trading-sim-rho.vercel.app/)
+- Built a full-stack **paper-trading simulator** using **React**, **Node.js**, and **MongoDB Atlas**.
+- Simulates real-time NASDAQ trading using **Finnhub API** for live stock prices.
+- Features include **portfolio tracking**, **buy/sell flow**, profit/loss calculations, and position management.
+- Backend hosted on **Render**, frontend on **Vercel**, with configs handled via **environment variables**.
+- Designed a professional UI with responsive layout, animated notifications, and smart error handling.
+
 ---
 
 ## 📫 Get in touch!
